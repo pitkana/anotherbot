@@ -1,6 +1,9 @@
 # Bot token
 bot_token.txt
 
+# Generated data
+data/
+
 # VS Code
 .vscode/
 
